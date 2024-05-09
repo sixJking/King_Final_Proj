@@ -1,0 +1,8 @@
+<servlet>
+    <servlet-name>SubmitCommissionServlet</servlet-name>
+    <servlet-class>path.to.SubmitCommissionServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>SubmitCommissionServlet</servlet-name>
+    <url-pattern>/SubmitCommissionServlet</url-pattern>
+</servlet-mapping>
